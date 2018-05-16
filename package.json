@@ -1,0 +1,21 @@
+{
+  "name": "StarWar_Game",
+  "version": "1.0.0",
+  "description": "* Spend a few moments looking over the code sent to you. First, get the server running, then begin to dissect the JavaScript code found at the bottom of `add.html`.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xhrsteven/StarWar_Game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xhrsteven/StarWar_Game/issues"
+  },
+  "homepage": "https://github.com/xhrsteven/StarWar_Game#readme"
+}
